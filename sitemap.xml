@@ -2,18 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sanzgadea.github.io/edmundo.github.io/about.html</loc>
-    <lastmod>2023-05-05T15:50:55.034Z</lastmod>
+    <lastmod>2023-05-05T16:22:56.154Z</lastmod>
   </url>
   <url>
     <loc>https://sanzgadea.github.io/edmundo.github.io/index.html</loc>
-    <lastmod>2023-05-05T15:50:55.314Z</lastmod>
+    <lastmod>2023-05-05T16:22:56.404Z</lastmod>
   </url>
   <url>
-    <loc>https://sanzgadea.github.io/edmundo.github.io/posts/welcome/index.html</loc>
-    <lastmod>2023-05-05T15:50:55.494Z</lastmod>
-  </url>
-  <url>
-    <loc>https://sanzgadea.github.io/edmundo.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2023-05-05T15:50:55.674Z</lastmod>
+    <loc>https://sanzgadea.github.io/edmundo.github.io/posts/on-translation-invariance-in-cnns/post.html</loc>
+    <lastmod>2023-05-05T16:22:56.594Z</lastmod>
   </url>
 </urlset>
